@@ -1,9 +1,11 @@
-age = 23
-age = float(age)
-print(type(age))
+"""Simple script for type conversion."""
 
-item = 2
-item = int(item)
-print(type(item))
+AGE = 23
+AGE = float(AGE)
+print(type(AGE))
+
+ITEM = 2
+ITEM = int(ITEM)
+print(type(ITEM))
 
 
