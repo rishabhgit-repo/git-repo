@@ -1,9 +1,7 @@
-def my_function()
-    a=5
-    b=4
-    c=3
-    return d
- my_function :
- 
- 
-   
+def my_function():
+    password = "test@123"
+    a = 5
+    return a + password
+
+
+my_function()
