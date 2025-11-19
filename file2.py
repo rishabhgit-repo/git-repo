@@ -7,6 +7,3 @@ print(type(AGE))
 ITEM = 2
 ITEM = int(ITEM)
 print(type(ITEM))
-
-
-
